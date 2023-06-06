@@ -1,6 +1,6 @@
 # Introduction
 
-The MetaEvent repository is the PyTorch Implementation of ACL 2023 Paper [Zero-and Few-Shot Event Detection via Prompt-Based Meta Learning](https://arxiv.org/abs/2305.17373)
+The MetaEvent repository is the PyTorch implementation of ACL 2023 Paper [Zero-and Few-Shot Event Detection via Prompt-Based Meta Learning](https://arxiv.org/abs/2305.17373)
 
 <img src=pics/intro.png>
 
@@ -9,7 +9,7 @@ We propose MetaEvent, a meta learning-based framework for zero- and few-shot eve
 
 ## Citing 
 
-Please consider citing the following papers if you use our methods in your research:
+Please consider citing the following paper if you use our methods in your research:
 ```
 @inproceedings{yue2023zero,
   title={Zero-and Few-Shot Event Detection via Prompt-Based Meta Learning},
